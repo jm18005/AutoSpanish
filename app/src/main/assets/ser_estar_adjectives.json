@@ -1,0 +1,77 @@
+[
+  {
+    "word": "aburrido",
+    "ser": "boring",
+    "estar": "bored"
+  },
+  {
+    "word": "listo",
+    "ser": "clever / smart",
+    "estar": "ready"
+  },
+  {
+    "word": "rico",
+    "ser": "rich",
+    "estar": "delicious / tasty"
+  },
+  {
+    "word": "malo",
+    "ser": "bad (character)",
+    "estar": "sick / ill"
+  },
+  {
+    "word": "verde",
+    "ser": "green (color)",
+    "estar": "unripe"
+  },
+  {
+    "word": "seguro",
+    "ser": "safe (trait)",
+    "estar": "sure / certain"
+  },
+  {
+    "word": "vivo",
+    "ser": "sharp / clever",
+    "estar": "alive"
+  },
+  {
+    "word": "callado",
+    "ser": "quiet (personality)",
+    "estar": "silent (right now)"
+  },
+  {
+    "word": "interesado",
+    "ser": "self-interested / selfish",
+    "estar": "interested (right now)"
+  },
+  {
+    "word": "cansado",
+    "ser": "tiresome",
+    "estar": "tired"
+  },
+  {
+    "word": "bueno",
+    "ser": "good (character)",
+    "estar": "tasty / in good condition"
+  },
+  {
+    "word": "guapo",
+    "ser": "handsome (trait)",
+    "estar": "looking good (right now)"
+  },
+  {
+    "word": "despierto",
+    "ser": "sharp / quick-witted",
+    "estar": "awake"
+  },
+  {
+    "word": "orgulloso",
+    "ser": "arrogant",
+    "estar": "proud (right now)"
+  },
+  {
+    "word": "negro",
+    "ser": "black (color)",
+    "estar": "furious (colloquial)"
+  }
+]

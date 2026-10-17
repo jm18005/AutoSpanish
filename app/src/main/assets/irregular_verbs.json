@@ -1,0 +1,1723 @@
+{
+  "ser": {
+    "type": "fully irregular",
+    "tenses": [
+      "present",
+      "preterite",
+      "imperfect"
+    ],
+    "present": [
+      "soy",
+      "eres",
+      "es",
+      "somos",
+      "sois",
+      "son"
+    ],
+    "preterite": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron"
+    ],
+    "imperfect": [
+      "era",
+      "eras",
+      "era",
+      "éramos",
+      "erais",
+      "eran"
+    ],
+    "future": [
+      "seré",
+      "serás",
+      "será",
+      "seremos",
+      "seréis",
+      "serán"
+    ],
+    "english": [
+      "to be (permanent)"
+    ]
+  },
+  "estar": {
+    "type": "fully irregular",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "estoy",
+      "estás",
+      "está",
+      "estamos",
+      "estáis",
+      "están"
+    ],
+    "preterite": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron"
+    ],
+    "imperfect": [
+      "estaba",
+      "estabas",
+      "estaba",
+      "estábamos",
+      "estabais",
+      "estaban"
+    ],
+    "future": [
+      "estaré",
+      "estarás",
+      "estará",
+      "estaremos",
+      "estaréis",
+      "estarán"
+    ],
+    "english": [
+      "to be (temporary/location)"
+    ]
+  },
+  "tener": {
+    "type": "g-insertion (yo) + e→ie stem change",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "tengo",
+      "tienes",
+      "tiene",
+      "tenemos",
+      "tenéis",
+      "tienen"
+    ],
+    "preterite": [
+      "tuve",
+      "tuviste",
+      "tuvo",
+      "tuvimos",
+      "tuvisteis",
+      "tuvieron"
+    ],
+    "imperfect": [
+      "tenía",
+      "tenías",
+      "tenía",
+      "teníamos",
+      "teníais",
+      "tenían"
+    ],
+    "future": [
+      "tendré",
+      "tendrás",
+      "tendrá",
+      "tendremos",
+      "tendréis",
+      "tendrán"
+    ],
+    "english": [
+      "to have"
+    ]
+  },
+  "hacer": {
+    "type": "g-insertion (yo) + irregular preterite",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "hago",
+      "haces",
+      "hace",
+      "hacemos",
+      "hacéis",
+      "hacen"
+    ],
+    "preterite": [
+      "hice",
+      "hiciste",
+      "hizo",
+      "hicimos",
+      "hicisteis",
+      "hicieron"
+    ],
+    "imperfect": [
+      "hacía",
+      "hacías",
+      "hacía",
+      "hacíamos",
+      "hacíais",
+      "hacían"
+    ],
+    "future": [
+      "haré",
+      "harás",
+      "hará",
+      "haremos",
+      "haréis",
+      "harán"
+    ],
+    "english": [
+      "to do",
+      "to make"
+    ]
+  },
+  "ir": {
+    "type": "fully irregular",
+    "tenses": [
+      "present",
+      "preterite",
+      "imperfect"
+    ],
+    "present": [
+      "voy",
+      "vas",
+      "va",
+      "vamos",
+      "vais",
+      "van"
+    ],
+    "preterite": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron"
+    ],
+    "imperfect": [
+      "iba",
+      "ibas",
+      "iba",
+      "íbamos",
+      "ibais",
+      "iban"
+    ],
+    "future": [
+      "iré",
+      "irás",
+      "irá",
+      "iremos",
+      "iréis",
+      "irán"
+    ],
+    "english": [
+      "to go"
+    ]
+  },
+  "ver": {
+    "type": "irregular yo-form",
+    "tenses": [
+      "present",
+      "imperfect"
+    ],
+    "present": [
+      "veo",
+      "ves",
+      "ve",
+      "vemos",
+      "veis",
+      "ven"
+    ],
+    "preterite": [
+      "vi",
+      "viste",
+      "vio",
+      "vimos",
+      "visteis",
+      "vieron"
+    ],
+    "imperfect": [
+      "veía",
+      "veías",
+      "veía",
+      "veíamos",
+      "veíais",
+      "veían"
+    ],
+    "future": [
+      "veré",
+      "verás",
+      "verá",
+      "veremos",
+      "veréis",
+      "verán"
+    ],
+    "english": [
+      "to see"
+    ]
+  },
+  "dar": {
+    "type": "irregular preterite",
+    "tenses": [
+      "preterite"
+    ],
+    "present": [
+      "doy",
+      "das",
+      "da",
+      "damos",
+      "dais",
+      "dan"
+    ],
+    "preterite": [
+      "di",
+      "diste",
+      "dio",
+      "dimos",
+      "disteis",
+      "dieron"
+    ],
+    "imperfect": [
+      "daba",
+      "dabas",
+      "daba",
+      "dábamos",
+      "dabais",
+      "daban"
+    ],
+    "future": [
+      "daré",
+      "darás",
+      "dará",
+      "daremos",
+      "daréis",
+      "darán"
+    ],
+    "english": [
+      "to give"
+    ]
+  },
+  "decir": {
+    "type": "e→i stem change + g-insertion (yo) + irregular preterite",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "digo",
+      "dices",
+      "dice",
+      "decimos",
+      "decís",
+      "dicen"
+    ],
+    "preterite": [
+      "dije",
+      "dijiste",
+      "dijo",
+      "dijimos",
+      "dijisteis",
+      "dijeron"
+    ],
+    "imperfect": [
+      "decía",
+      "decías",
+      "decía",
+      "decíamos",
+      "decíais",
+      "decían"
+    ],
+    "future": [
+      "diré",
+      "dirás",
+      "dirá",
+      "diremos",
+      "diréis",
+      "dirán"
+    ],
+    "english": [
+      "to say",
+      "to tell"
+    ]
+  },
+  "poder": {
+    "type": "o→ue stem change + irregular preterite",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "puedo",
+      "puedes",
+      "puede",
+      "podemos",
+      "podéis",
+      "pueden"
+    ],
+    "preterite": [
+      "pude",
+      "pudiste",
+      "pudo",
+      "pudimos",
+      "pudisteis",
+      "pudieron"
+    ],
+    "imperfect": [
+      "podía",
+      "podías",
+      "podía",
+      "podíamos",
+      "podíais",
+      "podían"
+    ],
+    "future": [
+      "podré",
+      "podrás",
+      "podrá",
+      "podremos",
+      "podréis",
+      "podrán"
+    ],
+    "english": [
+      "to be able to",
+      "can"
+    ]
+  },
+  "querer": {
+    "type": "e→ie stem change + irregular preterite",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "quiero",
+      "quieres",
+      "quiere",
+      "queremos",
+      "queréis",
+      "quieren"
+    ],
+    "preterite": [
+      "quise",
+      "quisiste",
+      "quiso",
+      "quisimos",
+      "quisisteis",
+      "quisieron"
+    ],
+    "imperfect": [
+      "quería",
+      "querías",
+      "quería",
+      "queríamos",
+      "queríais",
+      "querían"
+    ],
+    "future": [
+      "querré",
+      "querrás",
+      "querrá",
+      "querremos",
+      "querréis",
+      "querrán"
+    ],
+    "english": [
+      "to want",
+      "to love"
+    ]
+  },
+  "saber": {
+    "type": "irregular yo-form + irregular preterite",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "sé",
+      "sabes",
+      "sabe",
+      "sabemos",
+      "sabéis",
+      "saben"
+    ],
+    "preterite": [
+      "supe",
+      "supiste",
+      "supo",
+      "supimos",
+      "supisteis",
+      "supieron"
+    ],
+    "imperfect": [
+      "sabía",
+      "sabías",
+      "sabía",
+      "sabíamos",
+      "sabíais",
+      "sabían"
+    ],
+    "future": [
+      "sabré",
+      "sabrás",
+      "sabrá",
+      "sabremos",
+      "sabréis",
+      "sabrán"
+    ],
+    "english": [
+      "to know (facts)"
+    ]
+  },
+  "poner": {
+    "type": "g-insertion (yo) + irregular preterite",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "pongo",
+      "pones",
+      "pone",
+      "ponemos",
+      "ponéis",
+      "ponen"
+    ],
+    "preterite": [
+      "puse",
+      "pusiste",
+      "puso",
+      "pusimos",
+      "pusisteis",
+      "pusieron"
+    ],
+    "imperfect": [
+      "ponía",
+      "ponías",
+      "ponía",
+      "poníamos",
+      "poníais",
+      "ponían"
+    ],
+    "future": [
+      "pondré",
+      "pondrás",
+      "pondrá",
+      "pondremos",
+      "pondréis",
+      "pondrán"
+    ],
+    "english": [
+      "to put",
+      "to place"
+    ]
+  },
+  "salir": {
+    "type": "g-insertion (yo)",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "salgo",
+      "sales",
+      "sale",
+      "salimos",
+      "salís",
+      "salen"
+    ],
+    "preterite": [
+      "salí",
+      "saliste",
+      "salió",
+      "salimos",
+      "salisteis",
+      "salieron"
+    ],
+    "imperfect": [
+      "salía",
+      "salías",
+      "salía",
+      "salíamos",
+      "salíais",
+      "salían"
+    ],
+    "future": [
+      "saldré",
+      "saldrás",
+      "saldrá",
+      "saldremos",
+      "saldréis",
+      "saldrán"
+    ],
+    "english": [
+      "to leave",
+      "to go out"
+    ]
+  },
+  "venir": {
+    "type": "g-insertion (yo) + e→ie stem change",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "vengo",
+      "vienes",
+      "viene",
+      "venimos",
+      "venís",
+      "vienen"
+    ],
+    "preterite": [
+      "vine",
+      "viniste",
+      "vino",
+      "vinimos",
+      "vinisteis",
+      "vinieron"
+    ],
+    "imperfect": [
+      "venía",
+      "venías",
+      "venía",
+      "veníamos",
+      "veníais",
+      "venían"
+    ],
+    "future": [
+      "vendré",
+      "vendrás",
+      "vendrá",
+      "vendremos",
+      "vendréis",
+      "vendrán"
+    ],
+    "english": [
+      "to come"
+    ]
+  },
+  "creer": {
+    "type": "orthographic (i→y)",
+    "tenses": [
+      "preterite"
+    ],
+    "present": [
+      "creo",
+      "crees",
+      "cree",
+      "creemos",
+      "creéis",
+      "creen"
+    ],
+    "preterite": [
+      "creí",
+      "creíste",
+      "creyó",
+      "creímos",
+      "creísteis",
+      "creyeron"
+    ],
+    "imperfect": [
+      "creía",
+      "creías",
+      "creía",
+      "creíamos",
+      "creíais",
+      "creían"
+    ],
+    "future": [
+      "creeré",
+      "creerás",
+      "creerá",
+      "creeremos",
+      "creeréis",
+      "creerán"
+    ],
+    "english": [
+      "to believe"
+    ]
+  },
+  "seguir": {
+    "type": "e→i stem change + orthographic (gu→g)",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "sigo",
+      "sigues",
+      "sigue",
+      "seguimos",
+      "seguís",
+      "siguen"
+    ],
+    "preterite": [
+      "seguí",
+      "seguiste",
+      "siguió",
+      "seguimos",
+      "seguisteis",
+      "siguieron"
+    ],
+    "imperfect": [
+      "seguía",
+      "seguías",
+      "seguía",
+      "seguíamos",
+      "seguíais",
+      "seguían"
+    ],
+    "future": [
+      "seguiré",
+      "seguirás",
+      "seguirá",
+      "seguiremos",
+      "seguiréis",
+      "seguirán"
+    ],
+    "english": [
+      "to follow",
+      "to continue"
+    ]
+  },
+  "encontrar": {
+    "type": "o→ue stem change",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "encuentro",
+      "encuentras",
+      "encuentra",
+      "encontramos",
+      "encontráis",
+      "encuentran"
+    ],
+    "preterite": [
+      "encontré",
+      "encontraste",
+      "encontró",
+      "encontramos",
+      "encontrasteis",
+      "encontraron"
+    ],
+    "imperfect": [
+      "encontraba",
+      "encontrabas",
+      "encontraba",
+      "encontrábamos",
+      "encontrabais",
+      "encontraban"
+    ],
+    "future": [
+      "encontraré",
+      "encontrarás",
+      "encontrará",
+      "encontraremos",
+      "encontraréis",
+      "encontrarán"
+    ],
+    "english": [
+      "to find"
+    ]
+  },
+  "pensar": {
+    "type": "e→ie stem change",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "pienso",
+      "piensas",
+      "piensa",
+      "pensamos",
+      "pensáis",
+      "piensan"
+    ],
+    "preterite": [
+      "pensé",
+      "pensaste",
+      "pensó",
+      "pensamos",
+      "pensasteis",
+      "pensaron"
+    ],
+    "imperfect": [
+      "pensaba",
+      "pensabas",
+      "pensaba",
+      "pensábamos",
+      "pensabais",
+      "pensaban"
+    ],
+    "future": [
+      "pensaré",
+      "pensarás",
+      "pensará",
+      "pensaremos",
+      "pensaréis",
+      "pensarán"
+    ],
+    "english": [
+      "to think"
+    ]
+  },
+  "sentir": {
+    "type": "e→ie stem change (e→i in preterite)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "siento",
+      "sientes",
+      "siente",
+      "sentimos",
+      "sentís",
+      "sienten"
+    ],
+    "preterite": [
+      "sentí",
+      "sentiste",
+      "sintió",
+      "sentimos",
+      "sentisteis",
+      "sintieron"
+    ],
+    "imperfect": [
+      "sentía",
+      "sentías",
+      "sentía",
+      "sentíamos",
+      "sentíais",
+      "sentían"
+    ],
+    "future": [
+      "sentiré",
+      "sentirás",
+      "sentirá",
+      "sentiremos",
+      "sentiréis",
+      "sentirán"
+    ],
+    "english": [
+      "to feel"
+    ]
+  },
+  "volver": {
+    "type": "o→ue stem change",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "vuelvo",
+      "vuelves",
+      "vuelve",
+      "volvemos",
+      "volvéis",
+      "vuelven"
+    ],
+    "preterite": [
+      "volví",
+      "volviste",
+      "volvió",
+      "volvimos",
+      "volvisteis",
+      "volvieron"
+    ],
+    "imperfect": [
+      "volvía",
+      "volvías",
+      "volvía",
+      "volvíamos",
+      "volvíais",
+      "volvían"
+    ],
+    "future": [
+      "volveré",
+      "volverás",
+      "volverá",
+      "volveremos",
+      "volveréis",
+      "volverán"
+    ],
+    "english": [
+      "to return"
+    ]
+  },
+  "empezar": {
+    "type": "e→ie stem change + orthographic (z→c)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "empiezo",
+      "empiezas",
+      "empieza",
+      "empezamos",
+      "empezáis",
+      "empiezan"
+    ],
+    "preterite": [
+      "empecé",
+      "empezaste",
+      "empezó",
+      "empezamos",
+      "empezasteis",
+      "empezaron"
+    ],
+    "imperfect": [
+      "empezaba",
+      "empezabas",
+      "empezaba",
+      "empezábamos",
+      "empezabais",
+      "empezaban"
+    ],
+    "future": [
+      "empezaré",
+      "empezarás",
+      "empezará",
+      "empezaremos",
+      "empezaréis",
+      "empezarán"
+    ],
+    "english": [
+      "to begin",
+      "to start"
+    ]
+  },
+  "jugar": {
+    "type": "u→ue stem change + orthographic (g→gu)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "juego",
+      "juegas",
+      "juega",
+      "jugamos",
+      "jugáis",
+      "juegan"
+    ],
+    "preterite": [
+      "jugué",
+      "jugaste",
+      "jugó",
+      "jugamos",
+      "jugasteis",
+      "jugaron"
+    ],
+    "imperfect": [
+      "jugaba",
+      "jugabas",
+      "jugaba",
+      "jugábamos",
+      "jugabais",
+      "jugaban"
+    ],
+    "future": [
+      "jugaré",
+      "jugarás",
+      "jugará",
+      "jugaremos",
+      "jugaréis",
+      "jugarán"
+    ],
+    "english": [
+      "to play"
+    ]
+  },
+  "dormir": {
+    "type": "o→ue stem change (o→u in preterite)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "duermo",
+      "duermes",
+      "duerme",
+      "dormimos",
+      "dormís",
+      "duermen"
+    ],
+    "preterite": [
+      "dormí",
+      "dormiste",
+      "durmió",
+      "dormimos",
+      "dormisteis",
+      "durmieron"
+    ],
+    "imperfect": [
+      "dormía",
+      "dormías",
+      "dormía",
+      "dormíamos",
+      "dormíais",
+      "dormían"
+    ],
+    "future": [
+      "dormiré",
+      "dormirás",
+      "dormirá",
+      "dormiremos",
+      "dormiréis",
+      "dormirán"
+    ],
+    "english": [
+      "to sleep"
+    ]
+  },
+  "despertarse": {
+    "type": "e→ie stem change (reflexive)",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "me despierto",
+      "te despiertas",
+      "se despierta",
+      "nos despertamos",
+      "os despertáis",
+      "se despiertan"
+    ],
+    "preterite": [
+      "me desperté",
+      "te despertaste",
+      "se despertó",
+      "nos despertamos",
+      "os despertasteis",
+      "se despertaron"
+    ],
+    "imperfect": [
+      "me despertaba",
+      "te despertabas",
+      "se despertaba",
+      "nos despertábamos",
+      "os despertabais",
+      "se despertaban"
+    ],
+    "future": [
+      "me despertaré",
+      "te despertarás",
+      "se despertará",
+      "nos despertaremos",
+      "os despertaréis",
+      "se despertarán"
+    ],
+    "english": [
+      "to wake up"
+    ]
+  },
+  "vestirse": {
+    "type": "e→i stem change (reflexive)",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "me visto",
+      "te vistes",
+      "se viste",
+      "nos vestimos",
+      "os vestís",
+      "se visten"
+    ],
+    "preterite": [
+      "me vestí",
+      "te vestiste",
+      "se vistió",
+      "nos vestimos",
+      "os vestisteis",
+      "se vistieron"
+    ],
+    "imperfect": [
+      "me vestía",
+      "te vestías",
+      "se vestía",
+      "nos vestíamos",
+      "os vestíais",
+      "se vestían"
+    ],
+    "future": [
+      "me vestiré",
+      "te vestirás",
+      "se vestirá",
+      "nos vestiremos",
+      "os vestiréis",
+      "se vestirán"
+    ],
+    "english": [
+      "to get dressed"
+    ]
+  },
+  "oír": {
+    "type": "irregular yo-form + orthographic (i→y)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "oigo",
+      "oyes",
+      "oye",
+      "oímos",
+      "oís",
+      "oyen"
+    ],
+    "preterite": [
+      "oí",
+      "oíste",
+      "oyó",
+      "oímos",
+      "oísteis",
+      "oyeron"
+    ],
+    "imperfect": [
+      "oía",
+      "oías",
+      "oía",
+      "oíamos",
+      "oíais",
+      "oían"
+    ],
+    "future": [
+      "oiré",
+      "oirás",
+      "oirá",
+      "oiremos",
+      "oiréis",
+      "oirán"
+    ],
+    "english": [
+      "to hear"
+    ]
+  },
+  "conocer": {
+    "type": "g-insertion / c→zc (yo)",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "conozco",
+      "conoces",
+      "conoce",
+      "conocemos",
+      "conocéis",
+      "conocen"
+    ],
+    "preterite": [
+      "conocí",
+      "conociste",
+      "conoció",
+      "conocimos",
+      "conocisteis",
+      "conocieron"
+    ],
+    "imperfect": [
+      "conocía",
+      "conocías",
+      "conocía",
+      "conocíamos",
+      "conocíais",
+      "conocían"
+    ],
+    "future": [
+      "conoceré",
+      "conocerás",
+      "conocerá",
+      "conoceremos",
+      "conoceréis",
+      "conocerán"
+    ],
+    "english": [
+      "to know (people/places)"
+    ]
+  },
+  "traer": {
+    "type": "irregular yo-form + irregular preterite",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "traigo",
+      "traes",
+      "trae",
+      "traemos",
+      "traéis",
+      "traen"
+    ],
+    "preterite": [
+      "traje",
+      "trajiste",
+      "trajo",
+      "trajimos",
+      "trajisteis",
+      "trajeron"
+    ],
+    "imperfect": [
+      "traía",
+      "traías",
+      "traía",
+      "traíamos",
+      "traíais",
+      "traían"
+    ],
+    "future": [
+      "traeré",
+      "traerás",
+      "traerá",
+      "traeremos",
+      "traeréis",
+      "traerán"
+    ],
+    "english": [
+      "to bring"
+    ]
+  },
+  "caer": {
+    "type": "irregular yo-form + orthographic (i→y)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "caigo",
+      "caes",
+      "cae",
+      "caemos",
+      "caéis",
+      "caen"
+    ],
+    "preterite": [
+      "caí",
+      "caíste",
+      "cayó",
+      "caímos",
+      "caísteis",
+      "cayeron"
+    ],
+    "imperfect": [
+      "caía",
+      "caías",
+      "caía",
+      "caíamos",
+      "caíais",
+      "caían"
+    ],
+    "future": [
+      "caeré",
+      "caerás",
+      "caerá",
+      "caeremos",
+      "caeréis",
+      "caerán"
+    ],
+    "english": [
+      "to fall"
+    ]
+  },
+  "pedir": {
+    "type": "e→i stem change",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "pido",
+      "pides",
+      "pide",
+      "pedimos",
+      "pedís",
+      "piden"
+    ],
+    "preterite": [
+      "pedí",
+      "pediste",
+      "pidió",
+      "pedimos",
+      "pedisteis",
+      "pidieron"
+    ],
+    "imperfect": [
+      "pedía",
+      "pedías",
+      "pedía",
+      "pedíamos",
+      "pedíais",
+      "pedían"
+    ],
+    "future": [
+      "pediré",
+      "pedirás",
+      "pedirá",
+      "pediremos",
+      "pediréis",
+      "pedirán"
+    ],
+    "english": [
+      "to ask for",
+      "to order"
+    ]
+  },
+  "repetir": {
+    "type": "e→i stem change",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "repito",
+      "repites",
+      "repite",
+      "repetimos",
+      "repetís",
+      "repiten"
+    ],
+    "preterite": [
+      "repetí",
+      "repetiste",
+      "repitió",
+      "repetimos",
+      "repetisteis",
+      "repitieron"
+    ],
+    "imperfect": [
+      "repetía",
+      "repetías",
+      "repetía",
+      "repetíamos",
+      "repetíais",
+      "repetían"
+    ],
+    "future": [
+      "repetiré",
+      "repetirás",
+      "repetirá",
+      "repetiremos",
+      "repetiréis",
+      "repetirán"
+    ],
+    "english": [
+      "to repeat"
+    ]
+  },
+  "cerrar": {
+    "type": "e→ie stem change",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "cierro",
+      "cierras",
+      "cierra",
+      "cerramos",
+      "cerráis",
+      "cierran"
+    ],
+    "preterite": [
+      "cerré",
+      "cerraste",
+      "cerró",
+      "cerramos",
+      "cerrasteis",
+      "cerraron"
+    ],
+    "imperfect": [
+      "cerraba",
+      "cerrabas",
+      "cerraba",
+      "cerrábamos",
+      "cerrabais",
+      "cerraban"
+    ],
+    "future": [
+      "cerraré",
+      "cerrarás",
+      "cerrará",
+      "cerraremos",
+      "cerraréis",
+      "cerrarán"
+    ],
+    "english": [
+      "to close"
+    ]
+  },
+  "llegar": {
+    "type": "orthographic (g→gu) in preterite yo-form",
+    "tenses": [
+      "preterite"
+    ],
+    "present": [
+      "llego",
+      "llegas",
+      "llega",
+      "llegamos",
+      "llegáis",
+      "llegan"
+    ],
+    "preterite": [
+      "llegué",
+      "llegaste",
+      "llegó",
+      "llegamos",
+      "llegasteis",
+      "llegaron"
+    ],
+    "imperfect": [
+      "llegaba",
+      "llegabas",
+      "llegaba",
+      "llegábamos",
+      "llegabais",
+      "llegaban"
+    ],
+    "future": [
+      "llegaré",
+      "llegarás",
+      "llegará",
+      "llegaremos",
+      "llegaréis",
+      "llegarán"
+    ],
+    "english": [
+      "to arrive"
+    ]
+  },
+  "buscar": {
+    "type": "orthographic (c→qu) in preterite yo-form",
+    "tenses": [
+      "preterite"
+    ],
+    "present": [
+      "busco",
+      "buscas",
+      "busca",
+      "buscamos",
+      "buscáis",
+      "buscan"
+    ],
+    "preterite": [
+      "busqué",
+      "buscaste",
+      "buscó",
+      "buscamos",
+      "buscasteis",
+      "buscaron"
+    ],
+    "imperfect": [
+      "buscaba",
+      "buscabas",
+      "buscaba",
+      "buscábamos",
+      "buscabais",
+      "buscaban"
+    ],
+    "future": [
+      "buscaré",
+      "buscarás",
+      "buscará",
+      "buscaremos",
+      "buscaréis",
+      "buscarán"
+    ],
+    "english": [
+      "to look for"
+    ]
+  },
+  "pagar": {
+    "type": "orthographic (g→gu) in preterite yo-form",
+    "tenses": [
+      "preterite"
+    ],
+    "present": [
+      "pago",
+      "pagas",
+      "paga",
+      "pagamos",
+      "pagáis",
+      "pagan"
+    ],
+    "preterite": [
+      "pagué",
+      "pagaste",
+      "pagó",
+      "pagamos",
+      "pagasteis",
+      "pagaron"
+    ],
+    "imperfect": [
+      "pagaba",
+      "pagabas",
+      "pagaba",
+      "pagábamos",
+      "pagabais",
+      "pagaban"
+    ],
+    "future": [
+      "pagaré",
+      "pagarás",
+      "pagará",
+      "pagaremos",
+      "pagaréis",
+      "pagarán"
+    ],
+    "english": [
+      "to pay"
+    ]
+  },
+  "mentir": {
+    "type": "e→ie stem change (e→i in preterite)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "miento",
+      "mientes",
+      "miente",
+      "mentimos",
+      "mentís",
+      "mienten"
+    ],
+    "preterite": [
+      "mentí",
+      "mentiste",
+      "mintió",
+      "mentimos",
+      "mentisteis",
+      "mintieron"
+    ],
+    "imperfect": [
+      "mentía",
+      "mentías",
+      "mentía",
+      "mentíamos",
+      "mentíais",
+      "mentían"
+    ],
+    "future": [
+      "mentiré",
+      "mentirás",
+      "mentirá",
+      "mentiremos",
+      "mentiréis",
+      "mentirán"
+    ],
+    "english": [
+      "to lie"
+    ]
+  },
+  "morir": {
+    "type": "o→ue stem change (o→u in preterite)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "muero",
+      "mueres",
+      "muere",
+      "morimos",
+      "morís",
+      "mueren"
+    ],
+    "preterite": [
+      "morí",
+      "moriste",
+      "murió",
+      "morimos",
+      "moristeis",
+      "murieron"
+    ],
+    "imperfect": [
+      "moría",
+      "morías",
+      "moría",
+      "moríamos",
+      "moríais",
+      "morían"
+    ],
+    "future": [
+      "moriré",
+      "morirás",
+      "morirá",
+      "moriremos",
+      "moriréis",
+      "morirán"
+    ],
+    "english": [
+      "to die"
+    ]
+  },
+  "elegir": {
+    "type": "e→i stem change + orthographic (g→j)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "elijo",
+      "eliges",
+      "elige",
+      "elegimos",
+      "elegís",
+      "eligen"
+    ],
+    "preterite": [
+      "elegí",
+      "elegiste",
+      "eligió",
+      "elegimos",
+      "elegisteis",
+      "eligieron"
+    ],
+    "imperfect": [
+      "elegía",
+      "elegías",
+      "elegía",
+      "elegíamos",
+      "elegíais",
+      "elegían"
+    ],
+    "future": [
+      "elegiré",
+      "elegirás",
+      "elegirá",
+      "elegiremos",
+      "elegiréis",
+      "elegirán"
+    ],
+    "english": [
+      "to choose",
+      "to elect"
+    ]
+  },
+  "recoger": {
+    "type": "orthographic g→j (yo)",
+    "tenses": [
+      "present"
+    ],
+    "present": [
+      "recojo",
+      "recoges",
+      "recoge",
+      "recogemos",
+      "recogéis",
+      "recogen"
+    ],
+    "preterite": [
+      "recogí",
+      "recogiste",
+      "recogió",
+      "recogimos",
+      "recogisteis",
+      "recogieron"
+    ],
+    "imperfect": [
+      "recogía",
+      "recogías",
+      "recogía",
+      "recogíamos",
+      "recogíais",
+      "recogían"
+    ],
+    "future": [
+      "recogeré",
+      "recogerás",
+      "recogerá",
+      "recogeremos",
+      "recogeréis",
+      "recogerán"
+    ],
+    "english": [
+      "to pick up",
+      "to collect"
+    ]
+  },
+  "construir": {
+    "type": "orthographic (i→y)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "construyo",
+      "construyes",
+      "construye",
+      "construimos",
+      "construís",
+      "construyen"
+    ],
+    "preterite": [
+      "construí",
+      "construiste",
+      "construyó",
+      "construimos",
+      "construisteis",
+      "construyeron"
+    ],
+    "imperfect": [
+      "construía",
+      "construías",
+      "construía",
+      "construíamos",
+      "construíais",
+      "construían"
+    ],
+    "future": [
+      "construiré",
+      "construirás",
+      "construirá",
+      "construiremos",
+      "construiréis",
+      "construirán"
+    ],
+    "english": [
+      "to build"
+    ]
+  },
+  "huir": {
+    "type": "orthographic (i→y)",
+    "tenses": [
+      "present",
+      "preterite"
+    ],
+    "present": [
+      "huyo",
+      "huyes",
+      "huye",
+      "huimos",
+      "huís",
+      "huyen"
+    ],
+    "preterite": [
+      "huí",
+      "huiste",
+      "huyó",
+      "huimos",
+      "huisteis",
+      "huyeron"
+    ],
+    "imperfect": [
+      "huía",
+      "huías",
+      "huía",
+      "huíamos",
+      "huíais",
+      "huían"
+    ],
+    "future": [
+      "huiré",
+      "huirás",
+      "huirá",
+      "huiremos",
+      "huiréis",
+      "huirán"
+    ],
+    "english": [
+      "to flee",
+      "to run away"
+    ]
+  }
+}

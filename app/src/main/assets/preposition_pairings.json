@@ -1,0 +1,102 @@
+[
+  {
+    "verb": "soñar",
+    "preposition": "con",
+    "meaning": "to dream about/of"
+  },
+  {
+    "verb": "pensar",
+    "preposition": "en",
+    "meaning": "to think about"
+  },
+  {
+    "verb": "tratar",
+    "preposition": "de",
+    "meaning": "to try to"
+  },
+  {
+    "verb": "depender",
+    "preposition": "de",
+    "meaning": "to depend on"
+  },
+  {
+    "verb": "consistir",
+    "preposition": "en",
+    "meaning": "to consist of"
+  },
+  {
+    "verb": "enamorarse",
+    "preposition": "de",
+    "meaning": "to fall in love with"
+  },
+  {
+    "verb": "acabar",
+    "preposition": "de",
+    "meaning": "to have just (done something)"
+  },
+  {
+    "verb": "aprender",
+    "preposition": "a",
+    "meaning": "to learn to"
+  },
+  {
+    "verb": "ayudar",
+    "preposition": "a",
+    "meaning": "to help to"
+  },
+  {
+    "verb": "empezar",
+    "preposition": "a",
+    "meaning": "to start to"
+  },
+  {
+    "verb": "dejar",
+    "preposition": "de",
+    "meaning": "to stop (doing something)"
+  },
+  {
+    "verb": "preocuparse",
+    "preposition": "por",
+    "meaning": "to worry about"
+  },
+  {
+    "verb": "darse cuenta",
+    "preposition": "de",
+    "meaning": "to realize"
+  },
+  {
+    "verb": "casarse",
+    "preposition": "con",
+    "meaning": "to marry / get married to"
+  },
+  {
+    "verb": "burlarse",
+    "preposition": "de",
+    "meaning": "to make fun of"
+  },
+  {
+    "verb": "quejarse",
+    "preposition": "de",
+    "meaning": "to complain about"
+  },
+  {
+    "verb": "acordarse",
+    "preposition": "de",
+    "meaning": "to remember"
+  },
+  {
+    "verb": "interesarse",
+    "preposition": "en/por",
+    "meaning": "to be interested in"
+  },
+  {
+    "verb": "insistir",
+    "preposition": "en",
+    "meaning": "to insist on"
+  },
+  {
+    "verb": "contar",
+    "preposition": "con",
+    "meaning": "to count on"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "latam": "computadora",
+    "spain": "ordenador",
+    "note": "Spain commonly uses 'ordenador'; Latin America uses 'computadora'."
+  },
+  {
+    "latam": "carro",
+    "spain": "coche",
+    "note": "Spain commonly uses 'coche'; much of Latin America uses 'carro'."
+  },
+  {
+    "latam": "celular",
+    "spain": "móvil",
+    "note": "Spain commonly uses 'móvil'; Latin America commonly uses 'celular'."
+  },
+  {
+    "latam": "jugo",
+    "spain": "zumo",
+    "note": "Spain commonly uses 'zumo'; Latin America uses 'jugo'."
+  },
+  {
+    "latam": "papa",
+    "spain": "patata",
+    "note": "Spain uses 'patata'; Latin America uses 'papa' for potato."
+  },
+  {
+    "latam": "manejar",
+    "spain": "conducir",
+    "note": "Both mean 'to drive'; 'conducir' is more common in Spain, 'manejar' in Latin America."
+  },
+  {
+    "latam": "boleto",
+    "spain": "billete",
+    "note": "Spain uses 'billete' for ticket; Latin America uses 'boleto'."
+  },
+  {
+    "latam": "frijol",
+    "spain": "judía / alubia",
+    "note": "Spain uses 'judía'/'alubia' for bean; Latin America uses 'frijol'."
+  }
+]
